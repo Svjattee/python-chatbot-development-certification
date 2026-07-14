@@ -9,7 +9,5 @@ This repository contains my certificate and course materials from the Python & C
 - Developing Telegram chatbots with Python.
 - Learning the basics of automation and bot development.
 
-> "Learning never stops. Every new project makes me a better developer."
-
 ---
 Certificate issued by APIT (2026).
