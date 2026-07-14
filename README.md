@@ -9,9 +9,6 @@ This repository contains my certificate and course materials from the Python & C
 - Developing Telegram chatbots with Python.
 - Learning the basics of automation and bot development.
 
-## 🚀 My Goal
-This certificate represents another important milestone in my programming journey. I continue improving my Python skills by building real projects and learning modern development technologies.
-
 > "Learning never stops. Every new project makes me a better developer."
 
 ---
